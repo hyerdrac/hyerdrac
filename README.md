@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm an undergraduate student studying Statistics at Yıldız Teknik Üniversitesi.
+I'm an undergraduate student studying Statistics at Yıldız Technical University.
 I’m continuously learning and growing to become a data scientist.
 
 ## 🚀 Skills
@@ -14,7 +14,7 @@ I’m continuously learning and growing to become a data scientist.
 - **Machine Learning:** scikit-learn, tensorflow  
 - **Databases:** MySQL 
 - **Tools & Platforms:** Jupyter Notebook, Git, GitHub, VSCode  
-- **Statistical Methods:** EDA, hypothesis testing, regression
+- **Statistical Methods:** EDA, hypothesis testing, regression, classification
 
 ## 🌐 Find me on other platforms
 
